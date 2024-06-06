@@ -31,5 +31,8 @@ int main() {
         if (k != N) { cout << " "; }
     }
 
+    delete[] baskets;
+    baskets = nullptr;
+
     return 0;
 }
