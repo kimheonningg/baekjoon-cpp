@@ -41,5 +41,13 @@ int main() {
         if(i != T-1) {cout << endl;}
     }
 
+    // delete answerArr
+
+    for(int i = 0; i < T; i++) {
+        delete[] answerArr[i];
+    }
+    delete[] answerArr;
+    answerArr = nullptr;
+
     return 0;
 }
