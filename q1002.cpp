@@ -32,7 +32,7 @@ int main() {
 
         cout << num_ans[i] << endl;
     }
-
-    num_ans = nullptr;
+    
     delete[] num_ans;
+    num_ans = nullptr;
 }
