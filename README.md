@@ -6,11 +6,35 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 ## Solved Problems
 
-### C++ Basics
+### C++ Basics (Simple Problems)
 
 [q1000](./q1000.cpp)
 
 [q1001](./q1001.cpp)
+
+[q1157](./q1157.cpp)
+
+[q2566](./q2566.cpp)
+
+[q2720](./q2720.cpp)
+
+[q2738](./q2738.cpp)
+
+[q2745](./q2745.cpp)
+
+[q3003](./q3003.cpp)
+
+[q10039](./q10039.cpp)
+
+[q10103](./q10103.cpp)
+
+[q10798](./q10798.cpp)
+
+[q10810](./q10810.cpp)
+
+[q10813](./q10813.cpp)
+
+[q11005](./q11005.cpp)
 
 ### Divide and Conquer
 
