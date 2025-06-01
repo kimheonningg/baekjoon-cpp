@@ -82,9 +82,15 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 ### String
 
+[q2743](./q2743.cpp)
+
+[q9086](./q9086.cpp)
+
 [q10809](./q10809.cpp)
 
 [q11720](./q11720.cpp)
+
+[q27866](./q27866.cpp)
 
 ### Using Data structures
 
