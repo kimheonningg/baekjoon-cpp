@@ -36,6 +36,10 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 [q11005](./q11005.cpp)
 
+[q11654](./q11654.cpp)
+
+[q25314](./q25314.cpp)
+
 ### Divide and Conquer
 
 [q1074](./q1074.cpp)
@@ -75,3 +79,41 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 ### Greedy Algorithm
 
 [q1931](./q1931.cpp)
+
+### String
+
+[q10809](./q10809.cpp)
+
+[q11720](./q11720.cpp)
+
+### Using Data structures
+
+[q1002](./q1002.cpp)
+
+[q1747](./q1747.cpp)
+
+[q2108](./q2108.cpp)
+
+[q2577](./q2577.cpp)
+
+[q2675](./q2675.cpp)
+
+[q2941](./q2941.cpp)
+
+[q5800](./q5800.cpp)
+
+[q5597](./q5597.cpp)
+
+[q9012](./q9012.cpp)
+
+[q10773](./q10773.cpp)
+
+[q10815](./q10815.cpp)
+
+[q10828](./q10828.cpp)
+
+[q10845](./q10845.cpp)
+
+[q10988](./q10988.cpp)
+
+[q14425](./q14425.cpp)
