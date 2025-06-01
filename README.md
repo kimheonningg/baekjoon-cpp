@@ -80,6 +80,8 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 [q1931](./q1931.cpp)
 
+[q5585](./q5585.cpp)
+
 ### String
 
 [q2743](./q2743.cpp)
