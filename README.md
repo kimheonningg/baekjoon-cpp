@@ -40,6 +40,10 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 [q25314](./q25314.cpp)
 
+### Disjoint Sets Handling
+
+[q1717](./q1717.cpp)
+
 ### Divide and Conquer
 
 [q1074](./q1074.cpp)
