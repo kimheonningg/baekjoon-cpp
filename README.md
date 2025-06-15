@@ -72,6 +72,8 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 [q11726](./q11726.cpp)
 
+[q12865](./q12865.cpp)
+
 [q18353](./q18353.cpp)
 
 ### Graph Theory
