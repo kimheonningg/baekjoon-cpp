@@ -86,6 +86,8 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 ### Greedy Algorithm
 
+[q1715](./q1715.cpp)
+
 [q1931](./q1931.cpp)
 
 [q5585](./q5585.cpp)
