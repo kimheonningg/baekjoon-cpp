@@ -64,6 +64,8 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 [q2579](./q2579.cpp)
 
+[q9084](./q9084.cpp)
+
 [q9095](./q9095.cpp)
 
 [q9625](./q9625.cpp)
