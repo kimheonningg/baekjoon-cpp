@@ -90,6 +90,8 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 [q2252](./q2252.cpp)
 
+[q10026](./q10026.cpp)
+
 ### Greedy Algorithm
 
 [q1715](./q1715.cpp)
