@@ -128,6 +128,8 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 [q1747](./q1747.cpp)
 
+[q1918](./q1918.cpp)
+
 [q2108](./q2108.cpp)
 
 [q2577](./q2577.cpp)
