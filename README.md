@@ -8,6 +8,8 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 ### Binary Search
 
+[q1920](./q1920.cpp)
+
 [q2805](./q2805.cpp)
 
 ### C++ Basics (Simple Problems)
