@@ -6,6 +6,10 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 ## Solved Problems
 
+### Binary Search
+
+[q2805](./q2805.cpp)
+
 ### C++ Basics (Simple Problems)
 
 [q1000](./q1000.cpp)
