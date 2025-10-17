@@ -6,6 +6,17 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 
 ## Solved Problems
 
+- [Binary Search](#binary-search)
+- [C++ Basics (Simple Problems)](#c-basics-simple-problems)
+- [Disjoint Sets Handling](#disjoint-sets-handling)
+- [Divide and Conquer](#divide-and-conquer)
+- [Dynamic Programming](#dynamic-programming)
+- [Graph Theory](#graph-theory)
+- [Greedy Algorithm](#greedy-algorithm)
+- [String](#string)
+- [Using Data structures](#using-data-structures)
+  - [Deque](#deque)
+
 ### Binary Search
 
 [q1920](./q1920.cpp)
@@ -169,3 +180,7 @@ This is my personal study space to upload my [Baekjoon](https://www.acmicpc.net/
 [q10988](./q10988.cpp)
 
 [q14425](./q14425.cpp)
+
+#### Deque
+
+[q1021](./q1021.cpp)
